@@ -148,7 +148,7 @@ async function test() {
 /* Function that demonstates the functionality of this module */
 async function main () {
     const filepath = './data-18.txt';
-    const n = 20;
+    const n = 5;
     const bytes = 64;
 
     await test();
